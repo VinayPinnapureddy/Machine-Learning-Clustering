@@ -12,6 +12,14 @@ In this project we explore Classification techniques.
 
 2) Hierarchical Clustering ( Dendrogram method is used to find Optimum number of Clusters )
 
+# Dataset
+
+We use the following Mall_customers dataset for our Clustering algorithms
+
+Download the dataset
+
+https://www.kaggle.com/shwetabh123/mall-customers
+
 
 
 
